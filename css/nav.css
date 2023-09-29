@@ -1,0 +1,51 @@
+.nav{
+    background-color: #585858;
+    height: 5.33vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    width: 100%;
+    position: fixed;
+    padding: -10px;
+}
+
+.nav .ptel, .pmail, #p1, #pmail{
+    padding: 2px;
+    margin-top: 16px;
+    color: white;
+}
+
+.nav a{
+    margin-left: 0;
+    text-decoration: none;
+    color: white;
+}
+
+.nav a:hover{
+    text-decoration: underline;
+}
+
+.nav #p1 {
+    float: right;
+    padding-left: 500px;
+}
+
+.imgnav{
+    margin-top: 16px;
+    padding: 2px;
+}
+
+#imgmenu{
+    margin-left: -20px;
+    margin-right: 9px;
+    margin-top: 16px;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  

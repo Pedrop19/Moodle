@@ -1,0 +1,83 @@
+.footer{
+    height: 36.78vh;
+    width: 100%;
+    background-color: #2D2D2D;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    padding-top: 70px;
+    line-height: 30px;
+}
+
+.contact .telp{
+    display: inline;
+}
+
+.footer h3{
+    color:#FF6600;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Century Gothic',Arial,Helvetica,sans-serif;
+    
+}
+
+.footer .separar{
+    width: 20.99vw;
+    height: 31.06vh
+}
+
+.footer .curses{
+    width: 25.99vw;
+    height: 31.06vh
+}
+
+.footer .contact{
+    width: 25.99vw;
+    height: 31.06vh
+}
+
+.footer .curses ul{ 
+    font-style: italic;
+    margin-top: 20px;
+    font-size: 15px;
+    height: 10px;
+    line-height: 20px;
+}
+
+.footer .curses ul li{
+    color: white;
+}
+
+.footer .curses .tt2{ 
+    margin-top: 10px;
+    color: #FF6600;
+}
+
+.foter{
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    height: 6.88vh;
+}
+.foter a{
+    color:#FF6600;
+}
+
+.foter p{
+    color: #656565;
+}
+
+.foter p{
+    margin-top: 23px;
+}
+
+.enlaces a{
+    color:#FF6600;
+    text-decoration: none;
+}
+
+.enlaces a:hover{
+    text-decoration: underline;
+}
